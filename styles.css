@@ -1,0 +1,18 @@
+h1{
+    font-size: 60px;
+    font-weight: 700;
+    color: darkgoldenrod;
+    text-align: center;
+    padding: 30px 20px 40px;
+    background-color: black;
+    
+}
+h2{
+    font-size: 25px;
+    color: rgba(12, 12, 12, 0.88);
+    }
+.image{
+    border-style: none;
+    height: 30%;
+    width: 100%;
+}
